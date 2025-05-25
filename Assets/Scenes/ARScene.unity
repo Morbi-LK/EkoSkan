@@ -2643,10 +2643,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b423f5bb8218a946a7204ea179061a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  arSession: {fileID: 0}
-  raycastManager: {fileID: 0}
-  planeManager: {fileID: 0}
-  trackedImageManager: {fileID: 0}
+  arSession: {fileID: 1297715572}
+  raycastManager: {fileID: 1692398003}
+  planeManager: {fileID: 1692398002}
+  trackedImageManager: {fileID: 1692398001}
   placementIndicator: {fileID: 3959174810298727410, guid: cba9bcf84a6c8bc4db9b5ab1fca8b086, type: 3}
   objectPrefabs: []
 --- !u!1 &1867335297
