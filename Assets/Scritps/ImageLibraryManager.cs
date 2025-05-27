@@ -12,7 +12,7 @@ public class ImageLibraryManager : MonoBehaviour
     {
         // Sätt referensbiblioteket
         trackedImageManager.referenceLibrary = imageLibrary;
-        trackedImageManager.maxNumberOfMovingImages = 3;
+        trackedImageManager.requestedMaxNumberOfMovingImages = 3;
 
         // Registrera händelseanropet för bildspårning
         trackedImageManager.trackedImagesChanged += OnTrackedImagesChanged;
